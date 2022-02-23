@@ -16,4 +16,13 @@ body {
   width: 300px;
   height: 550px;
   background-color: ghostwhite;
+  position: absolute;
+  top: 20%;
+  left: 17.5%;
+}
+
+#white-hat {
+  width: 0;
+  height: 0;
+  border-style: solid;
 }
